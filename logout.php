@@ -1,7 +1,8 @@
-<?php
+<?php 
 
-session_start();
+session_start(); 
 
-$_SESSION['loggued_on_user'] = "";
+session_destroy(); 
 
-?>
+
+echo "<script>window.open('index.php','_self')</script>";
