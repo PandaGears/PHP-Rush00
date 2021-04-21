@@ -14,3 +14,6 @@
  - [x] Payment Options Page (its just a link to paypal for now)
  
 May come back sometime to improve it
+Also if anyone asks about my commit message, 
+somebody didnt believe me when I said we had to make an e-commerce site in two days, 
+so the commit is to commemorate that the project is proof that I did.
